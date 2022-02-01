@@ -80,6 +80,7 @@ nav a:hover {
   color: #ff9f1c;
   background-color: #f6f7e8;
 }
+
 nav ul {
   list-style: none;
   display: grid;
@@ -309,10 +310,9 @@ label {
   padding-left: 90px;
 }
 
-button {
+.button {
   margin-left: 0.5em;
 }
-
 
 .button1 {
   background-color: #FFBE00;
@@ -344,4 +344,8 @@ button {
     margin-left: -12px;
     width: 300px;
   }
+}
+
+.bg-green{
+  background-color: #8DA053;
 }
